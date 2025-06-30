@@ -5,8 +5,8 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "20351304"))
 API_HASH = environ.get("API_HASH", "c09d07f9c0600cdc2f6eef07130df8e1")
-BOT_TOKEN = environ.get("BOT_TOKEN", "c09d07f9c0600cdc2f6eef07130df8e1")
-OWNER = int(environ.get("OWNER", "5680454765"))
+BOT_TOKEN = environ.get("BOT_TOKEN", "")
+OWNER = int(environ.get("OWNER", "6375057978"))
 CREDIT = "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎"
 LOG_CHANNEL = "-1002631537674" # log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
